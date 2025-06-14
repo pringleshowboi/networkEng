@@ -1,7 +1,7 @@
 # Monitoring Server with Express, SQLite, Redis, and FastAPI Integration
 
 ## Overview  
-This project is a monitoring server application built with Node.js and Express. It integrates multiple data sources and provides APIs to fetch and manage system monitoring metrics and AI decisions.
+This project is a monitoring server application built with Node.js and Express. It integrates multiple data sources and provides APIs to fetch and manage system monitoring metrics and AI decisions. Versatile developer tool designed to streamline system monitoring, heakthchecks and predictive analytics accross complex architectitures. It intergrates data from SQLite, Redis and external FastAPI services, proving real-time insights and automated decision-making capabilities.
 
 ## Key Components
 
