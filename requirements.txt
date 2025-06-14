@@ -1,0 +1,11 @@
+psutil
+torch
+redis
+matplotlib
+seaborn
+express 
+sqlite3 
+redis 
+body-parser 
+cors
+tabulate
