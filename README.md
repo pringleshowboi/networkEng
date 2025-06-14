@@ -29,3 +29,9 @@ This project is a monitoring server application built with Node.js and Express. 
 
    ```bash
    node server.js
+##Sources & References
+Book: https://www.google.co.za/books/edition/Data_Science_and_Network_Engineering/_irhEAAAQBAJ?hl=en&gbpv=1&printsec=frontcover
+
+YouTube Tutorial Video:
+https://www.youtube.com/watch?v=6kWQ7QkUR_I
+
